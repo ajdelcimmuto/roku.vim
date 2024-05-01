@@ -1,5 +1,5 @@
-setl fdm=indent
-setl fde=BrightScriptFolding()
+" setl fdm=indent
+" setl fde=BrightScriptFolding()
 
 " function! BrightScriptFolding()
 "   let line = getline(v:lnum)
